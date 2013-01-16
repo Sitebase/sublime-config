@@ -1,5 +1,5 @@
 {
-	"cmd": ["jshint", "$file"],
+	"cmd": ["jshint", "--config=$packages/User/config/jshint.config", "$file"],
 	"file_regex": "js$",
 	"selector": "source.js"
 }
