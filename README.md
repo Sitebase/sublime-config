@@ -21,6 +21,10 @@ The disadvantage of the option is that installed packages will not use the setti
 * lorem: Short lorem ipsum text
 * loremlorem: Long lorem ipsum text
 
+## Keys ##
+
+* PHP Function help: ctrl+h
+
 ## Build Systems ##
  
 * jslint: Lint javascript files with Douglas Crockford coding standards check (requires: jshint)
@@ -30,3 +34,7 @@ The disadvantage of the option is that installed packages will not use the setti
 ## Extensions ##
 
 The extensions folder contains config files for how Sublime text should handle specific file types.
+
+## Theme ##
+
+The theme that is used in this repo is: https://github.com/buymeasoda/soda-theme/
