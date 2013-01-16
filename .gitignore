@@ -1,0 +1,4 @@
+.DS_STORE
+*.last-run
+*.pyc
+Package\ Control.sublime-settings
