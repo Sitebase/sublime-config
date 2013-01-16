@@ -1,11 +1,4 @@
 {
-	"font_size": 12.0,
-	"ignored_packages":
-	[
-		"Vintage",
-		"Sublime-JSHint"
-	],
-	"theme": "Soda Dark.sublime-theme",
 	"file_exclude_patterns":
 	[
 		".DS_Store",
@@ -44,5 +37,12 @@
 		"script",
 		"tmp",
 		"log"
-	]
+	],
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Sublime-JSHint"
+	],
+	"theme": "Soda Dark.sublime-theme"
 }
