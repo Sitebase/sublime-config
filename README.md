@@ -1,4 +1,4 @@
-# Sitebase Sublime Text 2 Config #
+# Sublime Text 2 Config #
 
 ## Snippets ##
 
