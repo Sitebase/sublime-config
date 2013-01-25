@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+manyToOne:
+    ${1:name}:
+        targetEntity: ${2:Entity}
+        joinColumns:
+            ${3:col_id}:
+                referencedColumnName: ${4:col_id}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doctrinemanytoone</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

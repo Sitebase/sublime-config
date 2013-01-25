@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+oneToMany:
+    ${1:name}:
+      	targetEntity: ${2:Entity}
+      	mappedBy: ${2:entity}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>doctrineonetomany</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
